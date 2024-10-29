@@ -1,7 +1,7 @@
 <script>
 
 const data = {
-  action: "getAllCourses" // getAllCourses, getAssignedCourses, assignCourse
+  action: "assignCourse" // getAllCourses, getAssignedCourses, assignCourse
   param: {
     course_id: "1234567890"
   }
